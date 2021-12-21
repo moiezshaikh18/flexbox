@@ -1,0 +1,36 @@
+.container{
+    background-color: yellow;
+}
+p{
+    font-family: 'Courier New';
+    font-size:20px;
+    font-style: italic;
+    text-align: center;
+    font-size: 40px;
+    font: bolder;
+}
+
+.box-2,.box-3,.box-4{
+     height: 200px;
+     width: 200px;
+     border: 1px solid white;
+     background-color: red;
+}
+.sub{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.box-1{
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    background-color: red;
+}
+.sub2{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
